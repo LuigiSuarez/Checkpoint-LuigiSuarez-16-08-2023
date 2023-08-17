@@ -1,0 +1,56 @@
+481  git remote add origin https://github.com/LuigiSuarez/practica_front_cv.git
+  482  git remote add origin https://github.com/LuigiSuarez/practica_front_cv.git
+  483  git remote -v
+  484  git status
+  485  git add.
+  486  git add .
+  487  git push origin main
+  488  git commit -m "practica front"
+  489  git push origin main
+  490  git commit -m "actulizando url"
+  491  git add .
+  492  git commit -m "arreglando url"
+  493  git push origin main
+  494  git status
+  495  git add .
+  496  git commit -m "arreglando tamano"
+  497  git push origin main
+  498  git push origin main
+  499  code .
+  500  git init
+  501  touch main.js index.html
+  502  git status
+  503  git add .
+  504  git commit -m "commit 01 de luigiSuarez"
+  505  git remote add origin https://github.com/LuigiSuarez/Checkpoint-LuigiSuarez-16-08-2023.git
+  506  git remote -v
+  507  git push origin main
+  508  git branch feature
+  509  git branch
+  510  git checkout feature
+  511  mkdir Hardware Software SeguridadInformatica
+  512  touch Hardware/ resumen.txt
+  513  cd Hardware/
+  514  ls
+  515  cd ..
+  516  cd Hardware/
+  517  touch resumen.txt
+  518  ls
+  519  cd ..
+  520  cd Software/
+  521  touch resumen.txt
+  522  cd ..
+  523  cd SeguridadInformatica/
+  524  touch resumen.txt
+  525  cd ..
+  526  ls
+  527  ls -R
+  528  git add .
+  529  git commit -m "commit 02 de luigiSuarez"
+  530  git push origin feature
+  531  git checkout main
+  532  mv main.js resumenHardware.txt
+  533  code .
+  534  mv index.html resumenSoftware.txt
+  535  touch comandos.txt
+  536  history
